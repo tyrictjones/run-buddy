@@ -77,6 +77,19 @@ section {
     position: relative;
 }
 
+.hero-text {
+    width: 50%;
+    padding: 20px;
+    text-align: right;
+    color: white;
+}
+
+.hero-text h2 {
+    color: #fce138;
+    font-style: italic;
+    font-size: 46px;
+}
+
 .hero-form {
     width: 500px;
     padding: 20px;
